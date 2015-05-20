@@ -1,5 +1,4 @@
 # hello-world
-My first repository
 
 Hi Humans!
 Wall-E here, i like Node.js and Coffeescript (that's what I'm made of!).
